@@ -1,0 +1,1 @@
+const url1 = "http://localhost:8080/Movie_war_exploded";
